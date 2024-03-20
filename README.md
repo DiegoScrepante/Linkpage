@@ -4,5 +4,5 @@ https://diegoscrepante.github.io/Linkpage/
 ![Screenshot_12](https://github.com/DiegoScrepante/Linkpage/assets/126990879/5c7bfa13-84d6-4567-b43f-6d583375c73b)
 
 <div align="center">
-  <small>Diego Aparecido Screpante - 2024</small>
+  <small>Diego Aparecido Screpante - 2023</small>
 </div>
